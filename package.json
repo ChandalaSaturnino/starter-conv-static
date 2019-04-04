@@ -1,8 +1,5 @@
 {
   "name": "starter-conv-static",
   "version": "1.0.0",
-  "dependencies": {
-    "jquery": "^3.3.1",
-    "normalize.css": "^8.0.1"
-  }
+  "dependencies": {}
 }
